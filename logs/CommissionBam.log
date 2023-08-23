@@ -1,0 +1,1066 @@
+09:56:05.777 [main][INFO ] Main                     - #########################################################################
+09:56:05.778 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+09:56:05.778 [main][INFO ] Main                     - #########################################################################
+09:56:05.781 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.lang.NullPointerException
+	at batch.main.Main.main(Main.java:28)
+09:57:30.007 [main][INFO ] Main                     - #########################################################################
+09:57:30.007 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+09:57:30.007 [main][INFO ] Main                     - #########################################################################
+09:57:30.010 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.lang.NullPointerException
+	at batch.main.Main.main(Main.java:28)
+09:57:32.679 [main][INFO ] Main                     - #########################################################################
+09:57:32.680 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+09:57:32.680 [main][INFO ] Main                     - #########################################################################
+09:57:32.683 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.lang.NullPointerException
+	at batch.main.Main.main(Main.java:28)
+09:58:31.461 [main][INFO ] Main                     - #########################################################################
+09:58:31.462 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+09:58:31.462 [main][INFO ] Main                     - #########################################################################
+09:58:38.314 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 3
+10:15:49.917 [main][INFO ] Main                     - #########################################################################
+10:15:49.918 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+10:15:49.918 [main][INFO ] Main                     - #########################################################################
+10:15:53.300 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 3
+10:15:53.303 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT BAM ######################
+10:15:53.304 [main][INFO ] Main                     - #########################################################################
+10:15:53.304 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+10:15:53.304 [main][INFO ] Main                     - #########################################################################
+10:19:19.164 [main][INFO ] Main                     - #########################################################################
+10:19:19.165 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+10:19:19.165 [main][INFO ] Main                     - #########################################################################
+10:19:28.030 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 3
+10:19:28.033 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+10:19:28.034 [main][INFO ] Main                     - #########################################################################
+10:19:28.034 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+10:19:28.034 [main][INFO ] Main                     - #########################################################################
+10:20:01.118 [main][INFO ] Main                     - #########################################################################
+10:20:01.118 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+10:20:01.118 [main][INFO ] Main                     - #########################################################################
+10:20:05.582 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 3
+10:20:05.584 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+10:20:05.585 [main][INFO ] Main                     - #########################################################################
+10:20:05.585 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+10:20:05.585 [main][INFO ] Main                     - #########################################################################
+10:20:59.554 [main][INFO ] Main                     - #########################################################################
+10:20:59.555 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+10:20:59.555 [main][INFO ] Main                     - #########################################################################
+10:21:03.835 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+10:21:03.838 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+10:21:03.839 [main][INFO ] Main                     - #########################################################################
+10:21:03.839 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+10:21:03.839 [main][INFO ] Main                     - #########################################################################
+10:21:24.519 [main][INFO ] Main                     - #########################################################################
+10:21:24.520 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+10:21:24.520 [main][INFO ] Main                     - #########################################################################
+10:21:32.449 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+10:21:32.452 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+10:21:32.453 [main][INFO ] Main                     - #########################################################################
+10:21:32.453 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+10:21:32.453 [main][INFO ] Main                     - #########################################################################
+11:00:16.557 [main][INFO ] Main                     - #########################################################################
+11:00:16.559 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+11:00:16.559 [main][INFO ] Main                     - #########################################################################
+11:00:20.843 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+11:00:20.844 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+11:00:20.847 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.io.FileNotFoundException: \swiftOut07\2023\01143830113.OUT (Le chemin d’accès spécifié est introuvable)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at batch.utile.utility.stringToFile(utility.java:155)
+	at batch.main.Main.main(Main.java:49)
+11:00:20.848 [main][INFO ] Main                     - #########################################################################
+11:00:20.848 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+11:00:20.848 [main][INFO ] Main                     - #########################################################################
+11:03:01.077 [main][INFO ] Main                     - #########################################################################
+11:03:01.078 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+11:03:01.078 [main][INFO ] Main                     - #########################################################################
+11:03:04.912 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+11:03:04.913 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+11:03:04.916 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.io.FileNotFoundException: \swiftOut07-2023\01143830113.OUT (Le chemin d’accès spécifié est introuvable)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at batch.utile.utility.stringToFile(utility.java:155)
+	at batch.main.Main.main(Main.java:49)
+11:03:04.916 [main][INFO ] Main                     - #########################################################################
+11:03:04.916 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+11:03:04.917 [main][INFO ] Main                     - #########################################################################
+11:06:59.783 [main][INFO ] Main                     - #########################################################################
+11:06:59.784 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+11:06:59.784 [main][INFO ] Main                     - #########################################################################
+11:07:03.276 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+11:07:03.277 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+11:07:03.281 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.io.FileNotFoundException: \swiftOut\07-2023\01143830113.OUT (Accès refusé)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at batch.utile.utility.stringToFile(utility.java:155)
+	at batch.main.Main.main(Main.java:53)
+11:07:03.282 [main][INFO ] Main                     - #########################################################################
+11:07:03.282 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+11:07:03.282 [main][INFO ] Main                     - #########################################################################
+11:08:10.837 [main][INFO ] Main                     - #########################################################################
+11:08:10.837 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+11:08:10.837 [main][INFO ] Main                     - #########################################################################
+11:08:14.404 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+11:08:14.405 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+11:08:14.408 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.io.FileNotFoundException: .\swiftOut\07-2023\01143830113.OUT (Accès refusé)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at batch.utile.utility.stringToFile(utility.java:155)
+	at batch.main.Main.main(Main.java:53)
+11:08:14.409 [main][INFO ] Main                     - #########################################################################
+11:08:14.409 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+11:08:14.409 [main][INFO ] Main                     - #########################################################################
+11:09:21.482 [main][INFO ] Main                     - #########################################################################
+11:09:21.483 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+11:09:21.483 [main][INFO ] Main                     - #########################################################################
+11:09:26.215 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+11:09:26.216 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+11:09:26.218 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.io.FileNotFoundException: .\swiftOut\07-2023\01143830113.OUT (Accès refusé)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at batch.utile.utility.stringToFile(utility.java:155)
+	at batch.main.Main.main(Main.java:50)
+11:09:26.219 [main][INFO ] Main                     - #########################################################################
+11:09:26.219 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+11:09:26.220 [main][INFO ] Main                     - #########################################################################
+11:13:14.161 [main][INFO ] Main                     - #########################################################################
+11:13:14.162 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+11:13:14.162 [main][INFO ] Main                     - #########################################################################
+11:13:17.676 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+11:13:17.677 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+11:13:17.679 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.io.FileNotFoundException: .\swiftOut\07-2023\01143830113.OUT (Le chemin d’accès spécifié est introuvable)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at batch.utile.utility.stringToFile(utility.java:155)
+	at batch.main.Main.main(Main.java:49)
+11:13:17.680 [main][INFO ] Main                     - #########################################################################
+11:13:17.680 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+11:13:17.680 [main][INFO ] Main                     - #########################################################################
+11:13:49.361 [main][INFO ] Main                     - #########################################################################
+11:13:49.362 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+11:13:49.362 [main][INFO ] Main                     - #########################################################################
+11:13:52.757 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+11:13:52.758 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+11:13:52.761 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.io.FileNotFoundException: .\swiftOut\07-2023\01143830113.OUT (Le chemin d’accès spécifié est introuvable)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at batch.utile.utility.stringToFile(utility.java:155)
+	at batch.main.Main.main(Main.java:49)
+11:13:52.762 [main][INFO ] Main                     - #########################################################################
+11:13:52.762 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+11:13:52.762 [main][INFO ] Main                     - #########################################################################
+11:15:30.423 [main][INFO ] Main                     - #########################################################################
+11:15:30.424 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+11:15:30.424 [main][INFO ] Main                     - #########################################################################
+11:15:33.960 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+11:15:33.962 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+11:15:33.964 [main][INFO ] Main                     - #########################################################################
+11:15:33.965 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+11:15:33.965 [main][INFO ] Main                     - #########################################################################
+12:13:15.481 [main][INFO ] Main                     - #########################################################################
+12:13:15.481 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:13:15.481 [main][INFO ] Main                     - #########################################################################
+12:13:20.890 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:13:20.891 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:13:20.896 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.io.FileNotFoundException: .\swiftOut\07-2023\07-20230.OUT\01143830113.OUT (Le chemin d’accès spécifié est introuvable)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at batch.utile.utility.stringToFile(utility.java:155)
+	at batch.main.Main.main(Main.java:50)
+12:13:20.898 [main][INFO ] Main                     - #########################################################################
+12:13:20.899 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:13:20.899 [main][INFO ] Main                     - #########################################################################
+12:14:40.126 [main][INFO ] Main                     - #########################################################################
+12:14:40.127 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:14:40.127 [main][INFO ] Main                     - #########################################################################
+12:14:43.700 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:14:43.701 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:14:43.704 [main][INFO ] Main                     - #########################################################################
+12:14:43.704 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:14:43.704 [main][INFO ] Main                     - #########################################################################
+12:15:44.535 [main][INFO ] Main                     - #########################################################################
+12:15:44.536 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:15:44.536 [main][INFO ] Main                     - #########################################################################
+12:15:48.773 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:15:48.779 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:15:48.783 [main][INFO ] Main                     - #########################################################################
+12:15:48.783 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:15:48.783 [main][INFO ] Main                     - #########################################################################
+12:16:03.268 [main][INFO ] Main                     - #########################################################################
+12:16:03.269 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:16:03.269 [main][INFO ] Main                     - #########################################################################
+12:16:07.001 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:16:07.002 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:16:07.005 [main][INFO ] Main                     - #########################################################################
+12:16:07.005 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:16:07.006 [main][INFO ] Main                     - #########################################################################
+12:19:17.866 [main][INFO ] Main                     - #########################################################################
+12:19:17.867 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:19:17.867 [main][INFO ] Main                     - #########################################################################
+12:19:21.240 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:19:21.244 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:19:21.247 [main][INFO ] Main                     - #########################################################################
+12:19:21.247 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:19:21.248 [main][INFO ] Main                     - #########################################################################
+12:22:50.244 [main][INFO ] Main                     - #########################################################################
+12:22:50.245 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:22:50.245 [main][INFO ] Main                     - #########################################################################
+12:22:53.740 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:22:53.741 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:22:53.745 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.io.FileNotFoundException: .\swiftOut\230724\2307241.OUT (Accès refusé)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at batch.utile.utility.stringToFile(utility.java:155)
+	at batch.main.Main.main(Main.java:53)
+12:22:53.746 [main][INFO ] Main                     - #########################################################################
+12:22:53.746 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:22:53.747 [main][INFO ] Main                     - #########################################################################
+12:23:23.000 [main][INFO ] Main                     - #########################################################################
+12:23:23.001 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:23:23.001 [main][INFO ] Main                     - #########################################################################
+12:23:26.662 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:23:26.663 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:23:26.667 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.io.FileNotFoundException: .\swiftOut\230724\2307241.OUT (Accès refusé)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at batch.utile.utility.stringToFile(utility.java:155)
+	at batch.main.Main.main(Main.java:53)
+12:23:26.668 [main][INFO ] Main                     - #########################################################################
+12:23:26.668 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:23:26.669 [main][INFO ] Main                     - #########################################################################
+12:23:58.022 [main][INFO ] Main                     - #########################################################################
+12:23:58.022 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:23:58.023 [main][INFO ] Main                     - #########################################################################
+12:24:13.360 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:24:13.361 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:24:13.364 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.io.FileNotFoundException: .\swiftOut\230724\2307241.OUT (Accès refusé)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at batch.utile.utility.stringToFile(utility.java:155)
+	at batch.main.Main.main(Main.java:54)
+12:24:13.365 [main][INFO ] Main                     - #########################################################################
+12:24:13.365 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:24:13.367 [main][INFO ] Main                     - #########################################################################
+12:25:35.577 [main][INFO ] Main                     - #########################################################################
+12:25:35.577 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:25:35.578 [main][INFO ] Main                     - #########################################################################
+12:25:39.236 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:25:39.237 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:25:39.240 [main][INFO ] Main                     - #########################################################################
+12:25:39.240 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:25:39.240 [main][INFO ] Main                     - #########################################################################
+12:26:04.339 [main][INFO ] Main                     - #########################################################################
+12:26:04.340 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:26:04.340 [main][INFO ] Main                     - #########################################################################
+12:26:08.512 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:26:08.513 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:26:08.516 [main][INFO ] Main                     - #########################################################################
+12:26:08.516 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:26:08.516 [main][INFO ] Main                     - #########################################################################
+12:26:11.677 [main][INFO ] Main                     - #########################################################################
+12:26:11.678 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:26:11.678 [main][INFO ] Main                     - #########################################################################
+12:26:15.121 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:26:15.122 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:26:15.125 [main][INFO ] Main                     - #########################################################################
+12:26:15.125 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:26:15.125 [main][INFO ] Main                     - #########################################################################
+12:26:49.375 [main][INFO ] Main                     - #########################################################################
+12:26:49.376 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:26:49.376 [main][INFO ] Main                     - #########################################################################
+12:26:54.419 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:26:54.420 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:26:54.422 [main][INFO ] Main                     - #########################################################################
+12:26:54.422 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:26:54.423 [main][INFO ] Main                     - #########################################################################
+12:28:15.845 [main][INFO ] Main                     - #########################################################################
+12:28:15.846 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:28:15.846 [main][INFO ] Main                     - #########################################################################
+12:28:19.239 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:28:19.240 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:28:19.242 [main][INFO ] Main                     - #########################################################################
+12:28:19.242 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:28:19.242 [main][INFO ] Main                     - #########################################################################
+12:28:31.081 [main][INFO ] Main                     - #########################################################################
+12:28:31.081 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:28:31.082 [main][INFO ] Main                     - #########################################################################
+12:28:34.429 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:28:34.430 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:28:34.433 [main][INFO ] Main                     - #########################################################################
+12:28:34.433 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:28:34.433 [main][INFO ] Main                     - #########################################################################
+12:29:03.183 [main][INFO ] Main                     - #########################################################################
+12:29:03.184 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:29:03.184 [main][INFO ] Main                     - #########################################################################
+12:29:06.740 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:29:06.741 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:29:06.744 [main][INFO ] Main                     - #########################################################################
+12:29:06.744 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:29:06.744 [main][INFO ] Main                     - #########################################################################
+12:30:34.474 [main][INFO ] Main                     - #########################################################################
+12:30:34.474 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:30:34.475 [main][INFO ] Main                     - #########################################################################
+12:30:37.911 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:30:37.912 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:30:37.915 [main][INFO ] Main                     - #########################################################################
+12:30:37.915 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:30:37.915 [main][INFO ] Main                     - #########################################################################
+12:30:45.214 [main][INFO ] Main                     - #########################################################################
+12:30:45.215 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:30:45.215 [main][INFO ] Main                     - #########################################################################
+12:30:50.062 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:30:50.063 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:30:50.065 [main][INFO ] Main                     - #########################################################################
+12:30:50.066 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:30:50.066 [main][INFO ] Main                     - #########################################################################
+12:32:17.643 [main][INFO ] Main                     - #########################################################################
+12:32:17.644 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:32:17.644 [main][INFO ] Main                     - #########################################################################
+12:32:22.128 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:32:22.129 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:32:22.132 [main][INFO ] Main                     - #########################################################################
+12:32:22.132 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:32:22.132 [main][INFO ] Main                     - #########################################################################
+12:34:30.284 [main][INFO ] Main                     - #########################################################################
+12:34:30.286 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:34:30.286 [main][INFO ] Main                     - #########################################################################
+12:34:34.014 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:34:34.014 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:34:34.017 [main][INFO ] Main                     - #########################################################################
+12:34:34.017 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:34:34.018 [main][INFO ] Main                     - #########################################################################
+12:34:46.524 [main][INFO ] Main                     - #########################################################################
+12:34:46.525 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:34:46.525 [main][INFO ] Main                     - #########################################################################
+12:34:51.166 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:34:51.166 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:34:51.170 [main][INFO ] Main                     - #########################################################################
+12:34:51.170 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:34:51.170 [main][INFO ] Main                     - #########################################################################
+12:40:45.026 [main][INFO ] Main                     - #########################################################################
+12:40:45.027 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:40:45.027 [main][INFO ] Main                     - #########################################################################
+12:40:48.648 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:40:48.648 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:40:48.653 [main][INFO ] Main                     - #########################################################################
+12:40:48.653 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:40:48.654 [main][INFO ] Main                     - #########################################################################
+12:42:04.458 [main][INFO ] Main                     - #########################################################################
+12:42:04.460 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:42:04.460 [main][INFO ] Main                     - #########################################################################
+12:42:08.683 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:42:08.683 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:42:08.687 [main][INFO ] Main                     - #########################################################################
+12:42:08.687 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:42:08.689 [main][INFO ] Main                     - #########################################################################
+12:49:49.500 [main][INFO ] Main                     - #########################################################################
+12:49:49.501 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+12:49:49.501 [main][INFO ] Main                     - #########################################################################
+12:49:53.179 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 1
+12:49:53.179 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+12:49:53.183 [main][INFO ] Main                     - #########################################################################
+12:49:53.184 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+12:49:53.185 [main][INFO ] Main                     - #########################################################################
+13:28:17.215 [main][INFO ] Main                     - #########################################################################
+13:28:17.216 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+13:28:17.216 [main][INFO ] Main                     - #########################################################################
+13:28:22.626 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 6
+13:28:22.626 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+13:28:22.631 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.io.FileNotFoundException: .\swiftOut\230724\2307240.OUT (Le chemin d’accès spécifié est introuvable)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at batch.utile.utility.stringToFile(utility.java:163)
+	at batch.main.Main.main(Main.java:57)
+13:28:22.632 [main][INFO ] Main                     - #########################################################################
+13:28:22.633 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+13:28:22.633 [main][INFO ] Main                     - #########################################################################
+13:28:45.354 [main][INFO ] Main                     - #########################################################################
+13:28:45.355 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+13:28:45.355 [main][INFO ] Main                     - #########################################################################
+13:28:49.767 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 6
+13:28:49.767 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+13:28:49.777 [main][INFO ] Main                     - #########################################################################
+13:28:49.777 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+13:28:49.777 [main][INFO ] Main                     - #########################################################################
+13:30:09.790 [main][INFO ] Main                     - #########################################################################
+13:30:09.791 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+13:30:09.791 [main][INFO ] Main                     - #########################################################################
+13:30:13.506 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 6
+13:30:13.506 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+13:30:13.516 [main][INFO ] Main                     - #########################################################################
+13:30:13.516 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+13:30:13.516 [main][INFO ] Main                     - #########################################################################
+13:37:19.559 [main][INFO ] Main                     - #########################################################################
+13:37:19.559 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+13:37:19.560 [main][INFO ] Main                     - #########################################################################
+13:37:22.990 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE 6
+13:37:22.990 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+13:37:23.001 [main][INFO ] Main                     - #########################################################################
+13:37:23.001 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+13:37:23.001 [main][INFO ] Main                     - #########################################################################
+13:38:30.028 [main][INFO ] Main                     - #########################################################################
+13:38:30.028 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+13:38:30.029 [main][INFO ] Main                     - #########################################################################
+13:38:33.655 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE CONTITENT : 6 VIREMENTS
+13:38:33.656 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+13:38:33.665 [main][INFO ] Main                     - #########################################################################
+13:38:33.665 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+13:38:33.665 [main][INFO ] Main                     - #########################################################################
+13:48:28.792 [main][INFO ] Main                     - #########################################################################
+13:48:28.793 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+13:48:28.793 [main][INFO ] Main                     - #########################################################################
+13:48:35.211 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE CONTITENT : 6 VIREMENTS
+13:48:35.211 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+13:48:35.221 [main][INFO ] Main                     - #########################################################################
+13:48:35.221 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+13:48:35.221 [main][INFO ] Main                     - #########################################################################
+13:50:47.903 [main][INFO ] Main                     - #########################################################################
+13:50:47.904 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+13:50:47.904 [main][INFO ] Main                     - #########################################################################
+13:50:51.264 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE CONTITENT : 6 VIREMENTS
+13:50:51.264 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+13:50:51.269 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+java.lang.IllegalArgumentException: Cannot format given Object as a Number
+	at java.text.DecimalFormat.format(DecimalFormat.java:507)
+	at java.text.Format.format(Format.java:157)
+	at batch.entities.Virement.getMontant(Virement.java:69)
+	at batch.utile.GenrationFichier.genereFileCorp(GenrationFichier.java:25)
+	at batch.main.Main.main(Main.java:59)
+13:50:51.269 [main][INFO ] Main                     - #########################################################################
+13:50:51.271 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+13:50:51.271 [main][INFO ] Main                     - #########################################################################
+13:52:05.236 [main][INFO ] Main                     - #########################################################################
+13:52:05.237 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+13:52:05.237 [main][INFO ] Main                     - #########################################################################
+13:52:08.747 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE CONTITENT : 6 VIREMENTS
+13:52:08.747 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+13:52:08.759 [main][INFO ] Main                     - #########################################################################
+13:52:08.760 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+13:52:08.760 [main][INFO ] Main                     - #########################################################################
+13:54:09.612 [main][INFO ] Main                     - #########################################################################
+13:54:09.613 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+13:54:09.613 [main][INFO ] Main                     - #########################################################################
+13:54:14.134 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE CONTITENT : 6 VIREMENTS
+13:54:14.134 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+13:54:14.146 [main][INFO ] Main                     - #########################################################################
+13:54:14.146 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+13:54:14.146 [main][INFO ] Main                     - #########################################################################
+13:56:08.645 [main][INFO ] Main                     - #########################################################################
+13:56:08.646 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+13:56:08.646 [main][INFO ] Main                     - #########################################################################
+13:56:13.053 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE CONTITENT : 6 VIREMENTS
+13:56:13.053 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+13:56:13.065 [main][INFO ] Main                     - #########################################################################
+13:56:13.065 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+13:56:13.065 [main][INFO ] Main                     - #########################################################################
+13:56:49.687 [main][INFO ] Main                     - #########################################################################
+13:56:49.688 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+13:56:49.688 [main][INFO ] Main                     - #########################################################################
+13:56:53.402 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE CONTITENT : 6 VIREMENTS
+13:56:53.402 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+13:56:53.414 [main][INFO ] Main                     - #########################################################################
+13:56:53.414 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+13:56:53.414 [main][INFO ] Main                     - #########################################################################
+14:01:55.135 [main][INFO ] Main                     - #########################################################################
+14:01:55.136 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+14:01:55.136 [main][INFO ] Main                     - #########################################################################
+14:01:58.981 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE CONTITENT : 6 VIREMENTS
+14:01:58.981 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+14:01:58.995 [main][INFO ] Main                     - #########################################################################
+14:01:58.995 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+14:01:58.995 [main][INFO ] Main                     - #########################################################################
+14:06:58.790 [main][INFO ] Main                     - #########################################################################
+14:06:58.791 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+14:06:58.791 [main][INFO ] Main                     - #########################################################################
+14:07:04.448 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE CONTITENT : 6 VIREMENTS
+14:07:04.448 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ######################
+14:07:04.458 [main][INFO ] Main                     - #########################################################################
+14:07:04.458 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+14:07:04.458 [main][INFO ] Main                     - #########################################################################
+14:10:30.134 [main][INFO ] Main                     - #########################################################################
+14:10:30.134 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+14:10:30.135 [main][INFO ] Main                     - #########################################################################
+14:10:35.715 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE CONTITENT : 6 VIREMENTS
+14:10:35.716 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+14:10:35.727 [main][INFO ] Main                     - #########################################################################
+14:10:35.727 [main][INFO ] Main                     - ################           FIN BATCH                  ###################
+14:10:35.727 [main][INFO ] Main                     - #########################################################################
+14:11:26.674 [main][INFO ] Main                     - #########################################################################
+14:11:26.674 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+14:11:26.675 [main][INFO ] Main                     - #########################################################################
+14:11:31.203 [main][INFO ] Main                     - ------ LIST VIREMENT AMBASSADE CONTITENT : 6 VIREMENTS
+14:11:31.203 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+14:11:31.214 [main][INFO ] Main                     - #########################################################################
+14:11:31.214 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+14:11:31.214 [main][INFO ] Main                     - #########################################################################
+14:11:53.827 [main][INFO ] Main                     - #########################################################################
+14:11:53.828 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+14:11:53.828 [main][INFO ] Main                     - #########################################################################
+14:11:59.618 [main][INFO ] Main                     - ################ LIST VIREMENT AMBASSADE CONTITENT : 6 VIREMENTS ################
+14:11:59.618 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+14:11:59.629 [main][INFO ] Main                     - #########################################################################
+14:11:59.629 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+14:11:59.629 [main][INFO ] Main                     - #########################################################################
+14:12:57.057 [main][INFO ] Main                     - #########################################################################
+14:12:57.058 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+14:12:57.058 [main][INFO ] Main                     - #########################################################################
+14:13:03.249 [main][INFO ] Main                     - ################ LIST VIREMENT AMBASSADE  ################
+14:13:03.249 [main][INFO ] Main                     - ################ CONTITENT : 6 VIREMENTS ################
+14:13:03.249 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+14:13:03.261 [main][INFO ] Main                     - #########################################################################
+14:13:03.261 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+14:13:03.261 [main][INFO ] Main                     - #########################################################################
+14:13:26.713 [main][INFO ] Main                     - #########################################################################
+14:13:26.714 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+14:13:26.714 [main][INFO ] Main                     - #########################################################################
+14:13:30.419 [main][INFO ] Main                     - ################        LIST VIREMENT AMBASSADE        ################
+14:13:30.420 [main][INFO ] Main                     - ################        CONTITENT : 6 VIREMENTS       ################
+14:13:30.420 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+14:13:30.433 [main][INFO ] Main                     - #########################################################################
+14:13:30.433 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+14:13:30.433 [main][INFO ] Main                     - #########################################################################
+14:13:46.898 [main][INFO ] Main                     - #########################################################################
+14:13:46.898 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+14:13:46.898 [main][INFO ] Main                     - #########################################################################
+14:13:51.611 [main][INFO ] Main                     - ################        LIST VIREMENT AMBASSADE        ################
+14:13:51.611 [main][INFO ] Main                     - ################        CONTITENT : 6 VIREMENTS        ################
+14:13:51.611 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+14:13:51.624 [main][INFO ] Main                     - #########################################################################
+14:13:51.624 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+14:13:51.624 [main][INFO ] Main                     - #########################################################################
+14:14:59.786 [main][INFO ] Main                     - #########################################################################
+14:14:59.786 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+14:14:59.787 [main][INFO ] Main                     - #########################################################################
+14:15:04.457 [main][INFO ] Main                     - ################        LIST VIREMENT AMBASSADE       ##################
+14:15:04.457 [main][INFO ] Main                     - ################        CONTITENT : 6 VIREMENTS       ##################
+14:15:04.457 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+14:15:04.469 [main][INFO ] Main                     - #########################################################################
+14:15:04.470 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+14:15:04.470 [main][INFO ] Main                     - #########################################################################
+14:15:21.050 [main][INFO ] Main                     - #########################################################################
+14:15:21.051 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+14:15:21.051 [main][INFO ] Main                     - #########################################################################
+14:15:26.384 [main][INFO ] Main                     - ################        LIST VIREMENT AMBASSADE       ###################
+14:15:26.384 [main][INFO ] Main                     - ################        CONTITENT : 6 VIREMENTS       ###################
+14:15:26.384 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+14:15:26.398 [main][INFO ] Main                     - #########################################################################
+14:15:26.399 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+14:15:26.399 [main][INFO ] Main                     - #########################################################################
+14:23:35.762 [main][INFO ] Main                     - #########################################################################
+14:23:35.763 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+14:23:35.764 [main][INFO ] Main                     - #########################################################################
+14:23:41.392 [main][INFO ] Main                     - ################        LIST VIREMENT AMBASSADE       ###################
+14:23:41.392 [main][INFO ] Main                     - ################        CONTITENT : 6 VIREMENTS       ###################
+14:23:41.392 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+14:23:41.402 [main][INFO ] Main                     - #########################################################################
+14:23:41.402 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+14:23:41.402 [main][INFO ] Main                     - #########################################################################
+14:25:28.568 [main][INFO ] Main                     - #########################################################################
+14:25:28.569 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+14:25:28.569 [main][INFO ] Main                     - #########################################################################
+14:25:33.114 [main][INFO ] Main                     - ################        LIST VIREMENT AMBASSADE       ###################
+14:25:33.114 [main][INFO ] Main                     - ################        CONTITENT : 6 VIREMENTS       ###################
+14:25:33.114 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+14:25:33.126 [main][INFO ] Main                     - #########################################################################
+14:25:33.126 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+14:25:33.126 [main][INFO ] Main                     - #########################################################################
+14:39:11.228 [main][INFO ] Main                     - #########################################################################
+14:39:11.229 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+14:39:11.229 [main][INFO ] Main                     - #########################################################################
+14:39:16.934 [main][ERROR] JDBCExceptionReporter    - Nom de colonne non valide
+14:39:16.935 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+javax.persistence.PersistenceException: org.hibernate.exception.GenericJDBCException: could not execute query
+	at org.hibernate.ejb.AbstractEntityManagerImpl.throwPersistenceException(AbstractEntityManagerImpl.java:614)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:76)
+	at batch.main.Main.main(Main.java:43)
+Caused by: org.hibernate.exception.GenericJDBCException: could not execute query
+	at org.hibernate.exception.SQLStateConverter.handledNonSpecificException(SQLStateConverter.java:126)
+	at org.hibernate.exception.SQLStateConverter.convert(SQLStateConverter.java:114)
+	at org.hibernate.exception.JDBCExceptionHelper.convert(JDBCExceptionHelper.java:66)
+	at org.hibernate.loader.Loader.doList(Loader.java:2231)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2125)
+	at org.hibernate.loader.Loader.list(Loader.java:2120)
+	at org.hibernate.loader.custom.CustomLoader.list(CustomLoader.java:312)
+	at org.hibernate.impl.SessionImpl.listCustomQuery(SessionImpl.java:1722)
+	at org.hibernate.impl.AbstractSessionImpl.list(AbstractSessionImpl.java:165)
+	at org.hibernate.impl.SQLQueryImpl.list(SQLQueryImpl.java:175)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:67)
+	... 1 more
+Caused by: java.sql.SQLException: Nom de colonne non valide
+	at oracle.jdbc.driver.OracleStatement.getColumnIndexPrimitive(OracleStatement.java:4257)
+	at oracle.jdbc.driver.OracleStatement.getColumnIndex(OracleStatement.java:4215)
+	at oracle.jdbc.driver.InsensitiveScrollableResultSet.findColumn(InsensitiveScrollableResultSet.java:299)
+	at oracle.jdbc.driver.GeneratedResultSet.getLong(GeneratedResultSet.java:626)
+	at org.hibernate.type.LongType.get(LongType.java:51)
+	at org.hibernate.type.NullableType.nullSafeGet(NullableType.java:184)
+	at org.hibernate.type.NullableType.nullSafeGet(NullableType.java:173)
+	at org.hibernate.type.AbstractType.hydrate(AbstractType.java:105)
+	at org.hibernate.persister.entity.AbstractEntityPersister.hydrate(AbstractEntityPersister.java:2124)
+	at org.hibernate.loader.Loader.loadFromResultSet(Loader.java:1404)
+	at org.hibernate.loader.Loader.instanceNotYetLoaded(Loader.java:1332)
+	at org.hibernate.loader.Loader.getRow(Loader.java:1230)
+	at org.hibernate.loader.Loader.getRowFromResultSet(Loader.java:603)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:724)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:259)
+	at org.hibernate.loader.Loader.doList(Loader.java:2228)
+	... 8 more
+14:39:16.936 [main][INFO ] Main                     - #########################################################################
+14:39:16.937 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+14:39:16.937 [main][INFO ] Main                     - #########################################################################
+14:48:53.664 [main][INFO ] Main                     - #########################################################################
+14:48:53.664 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+14:48:53.665 [main][INFO ] Main                     - #########################################################################
+14:48:57.690 [main][ERROR] JDBCExceptionReporter    - Nom de colonne non valide
+14:48:57.691 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+javax.persistence.PersistenceException: org.hibernate.exception.GenericJDBCException: could not execute query
+	at org.hibernate.ejb.AbstractEntityManagerImpl.throwPersistenceException(AbstractEntityManagerImpl.java:614)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:76)
+	at batch.main.Main.main(Main.java:43)
+Caused by: org.hibernate.exception.GenericJDBCException: could not execute query
+	at org.hibernate.exception.SQLStateConverter.handledNonSpecificException(SQLStateConverter.java:126)
+	at org.hibernate.exception.SQLStateConverter.convert(SQLStateConverter.java:114)
+	at org.hibernate.exception.JDBCExceptionHelper.convert(JDBCExceptionHelper.java:66)
+	at org.hibernate.loader.Loader.doList(Loader.java:2231)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2125)
+	at org.hibernate.loader.Loader.list(Loader.java:2120)
+	at org.hibernate.loader.custom.CustomLoader.list(CustomLoader.java:312)
+	at org.hibernate.impl.SessionImpl.listCustomQuery(SessionImpl.java:1722)
+	at org.hibernate.impl.AbstractSessionImpl.list(AbstractSessionImpl.java:165)
+	at org.hibernate.impl.SQLQueryImpl.list(SQLQueryImpl.java:175)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:67)
+	... 1 more
+Caused by: java.sql.SQLException: Nom de colonne non valide
+	at oracle.jdbc.driver.OracleStatement.getColumnIndexPrimitive(OracleStatement.java:4257)
+	at oracle.jdbc.driver.OracleStatement.getColumnIndex(OracleStatement.java:4215)
+	at oracle.jdbc.driver.InsensitiveScrollableResultSet.findColumn(InsensitiveScrollableResultSet.java:299)
+	at oracle.jdbc.driver.GeneratedResultSet.getLong(GeneratedResultSet.java:626)
+	at org.hibernate.type.LongType.get(LongType.java:51)
+	at org.hibernate.type.NullableType.nullSafeGet(NullableType.java:184)
+	at org.hibernate.type.NullableType.nullSafeGet(NullableType.java:173)
+	at org.hibernate.loader.Loader.getKeyFromResultSet(Loader.java:1121)
+	at org.hibernate.loader.Loader.getRowFromResultSet(Loader.java:588)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:724)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:259)
+	at org.hibernate.loader.Loader.doList(Loader.java:2228)
+	... 8 more
+14:48:57.693 [main][INFO ] Main                     - #########################################################################
+14:48:57.693 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+14:48:57.693 [main][INFO ] Main                     - #########################################################################
+14:49:28.701 [main][INFO ] Main                     - #########################################################################
+14:49:28.702 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+14:49:28.702 [main][INFO ] Main                     - #########################################################################
+14:49:34.011 [main][ERROR] JDBCExceptionReporter    - Nom de colonne non valide
+14:49:34.012 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+javax.persistence.PersistenceException: org.hibernate.exception.GenericJDBCException: could not execute query
+	at org.hibernate.ejb.AbstractEntityManagerImpl.throwPersistenceException(AbstractEntityManagerImpl.java:614)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:76)
+	at batch.main.Main.main(Main.java:43)
+Caused by: org.hibernate.exception.GenericJDBCException: could not execute query
+	at org.hibernate.exception.SQLStateConverter.handledNonSpecificException(SQLStateConverter.java:126)
+	at org.hibernate.exception.SQLStateConverter.convert(SQLStateConverter.java:114)
+	at org.hibernate.exception.JDBCExceptionHelper.convert(JDBCExceptionHelper.java:66)
+	at org.hibernate.loader.Loader.doList(Loader.java:2231)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2125)
+	at org.hibernate.loader.Loader.list(Loader.java:2120)
+	at org.hibernate.loader.custom.CustomLoader.list(CustomLoader.java:312)
+	at org.hibernate.impl.SessionImpl.listCustomQuery(SessionImpl.java:1722)
+	at org.hibernate.impl.AbstractSessionImpl.list(AbstractSessionImpl.java:165)
+	at org.hibernate.impl.SQLQueryImpl.list(SQLQueryImpl.java:175)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:67)
+	... 1 more
+Caused by: java.sql.SQLException: Nom de colonne non valide
+	at oracle.jdbc.driver.OracleStatement.getColumnIndexPrimitive(OracleStatement.java:4257)
+	at oracle.jdbc.driver.OracleStatement.getColumnIndex(OracleStatement.java:4215)
+	at oracle.jdbc.driver.InsensitiveScrollableResultSet.findColumn(InsensitiveScrollableResultSet.java:299)
+	at oracle.jdbc.driver.GeneratedResultSet.getLong(GeneratedResultSet.java:626)
+	at org.hibernate.type.LongType.get(LongType.java:51)
+	at org.hibernate.type.NullableType.nullSafeGet(NullableType.java:184)
+	at org.hibernate.type.NullableType.nullSafeGet(NullableType.java:173)
+	at org.hibernate.loader.Loader.getKeyFromResultSet(Loader.java:1121)
+	at org.hibernate.loader.Loader.getRowFromResultSet(Loader.java:588)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:724)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:259)
+	at org.hibernate.loader.Loader.doList(Loader.java:2228)
+	... 8 more
+14:49:34.013 [main][INFO ] Main                     - #########################################################################
+14:49:34.013 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+14:49:34.013 [main][INFO ] Main                     - #########################################################################
+15:50:30.937 [main][INFO ] Main                     - #########################################################################
+15:50:30.938 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+15:50:30.939 [main][INFO ] Main                     - #########################################################################
+15:50:36.114 [main][INFO ] Main                     - ################        LIST VIREMENT AMBASSADE       ###################
+15:50:36.114 [main][INFO ] Main                     - ################        CONTITENT : 6 VIREMENTS       ###################
+15:50:36.114 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+15:50:36.120 [main][ERROR] JDBCExceptionReporter    - ORA-00904: "VIR"."GETCOMPTE": invalid identifier
+
+15:50:36.121 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute query
+	at org.hibernate.ejb.AbstractEntityManagerImpl.throwPersistenceException(AbstractEntityManagerImpl.java:614)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:76)
+	at batch.main.Main.main(Main.java:56)
+Caused by: org.hibernate.exception.SQLGrammarException: could not execute query
+	at org.hibernate.exception.SQLStateConverter.convert(SQLStateConverter.java:90)
+	at org.hibernate.exception.JDBCExceptionHelper.convert(JDBCExceptionHelper.java:66)
+	at org.hibernate.loader.Loader.doList(Loader.java:2231)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2125)
+	at org.hibernate.loader.Loader.list(Loader.java:2120)
+	at org.hibernate.loader.custom.CustomLoader.list(CustomLoader.java:312)
+	at org.hibernate.impl.SessionImpl.listCustomQuery(SessionImpl.java:1722)
+	at org.hibernate.impl.AbstractSessionImpl.list(AbstractSessionImpl.java:165)
+	at org.hibernate.impl.SQLQueryImpl.list(SQLQueryImpl.java:175)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:67)
+	... 1 more
+Caused by: java.sql.SQLSyntaxErrorException: ORA-00904: "VIR"."GETCOMPTE": invalid identifier
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:630)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:564)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1151)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:771)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:299)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:498)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:152)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:1052)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1531)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1311)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3746)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeQuery(OraclePreparedStatement.java:3855)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeQuery(OraclePreparedStatementWrapper.java:1098)
+	at org.hibernate.jdbc.AbstractBatcher.getResultSet(AbstractBatcher.java:208)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:1808)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:697)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:259)
+	at org.hibernate.loader.Loader.doList(Loader.java:2228)
+	... 8 more
+Caused by: Error : 904, Position : 38, Sql = insert into fic_ambassade(nom) values(vir.getCompte()), OriginalSql = insert into fic_ambassade(nom) values(vir.getCompte()), Error Msg = ORA-00904: "VIR"."GETCOMPTE": invalid identifier
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:637)
+	... 25 more
+15:50:36.123 [main][INFO ] Main                     - #########################################################################
+15:50:36.123 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+15:50:36.123 [main][INFO ] Main                     - #########################################################################
+15:51:35.567 [main][INFO ] Main                     - #########################################################################
+15:51:35.567 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+15:51:35.568 [main][INFO ] Main                     - #########################################################################
+15:51:39.450 [main][INFO ] Main                     - ################        LIST VIREMENT AMBASSADE       ###################
+15:51:39.450 [main][INFO ] Main                     - ################        CONTITENT : 6 VIREMENTS       ###################
+15:51:39.450 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+15:51:39.455 [main][ERROR] JDBCExceptionReporter    - ORA-01400: cannot insert NULL into ("SYSTEM"."FIC_AMBASSADE"."ID")
+
+15:51:39.456 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+javax.persistence.PersistenceException: org.hibernate.exception.ConstraintViolationException: could not execute query
+	at org.hibernate.ejb.AbstractEntityManagerImpl.throwPersistenceException(AbstractEntityManagerImpl.java:614)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:76)
+	at batch.main.Main.main(Main.java:56)
+Caused by: org.hibernate.exception.ConstraintViolationException: could not execute query
+	at org.hibernate.exception.SQLStateConverter.convert(SQLStateConverter.java:94)
+	at org.hibernate.exception.JDBCExceptionHelper.convert(JDBCExceptionHelper.java:66)
+	at org.hibernate.loader.Loader.doList(Loader.java:2231)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2125)
+	at org.hibernate.loader.Loader.list(Loader.java:2120)
+	at org.hibernate.loader.custom.CustomLoader.list(CustomLoader.java:312)
+	at org.hibernate.impl.SessionImpl.listCustomQuery(SessionImpl.java:1722)
+	at org.hibernate.impl.AbstractSessionImpl.list(AbstractSessionImpl.java:165)
+	at org.hibernate.impl.SQLQueryImpl.list(SQLQueryImpl.java:175)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:67)
+	... 1 more
+Caused by: java.sql.SQLIntegrityConstraintViolationException: ORA-01400: cannot insert NULL into ("SYSTEM"."FIC_AMBASSADE"."ID")
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:630)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:564)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1151)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:771)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:299)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:498)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:152)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:1052)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1531)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1311)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3746)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeQuery(OraclePreparedStatement.java:3855)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeQuery(OraclePreparedStatementWrapper.java:1098)
+	at org.hibernate.jdbc.AbstractBatcher.getResultSet(AbstractBatcher.java:208)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:1808)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:697)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:259)
+	at org.hibernate.loader.Loader.doList(Loader.java:2228)
+	... 8 more
+Caused by: Error : 1400, Position : 0, Sql = insert into fic_ambassade(nom) values('Test'), OriginalSql = insert into fic_ambassade(nom) values('Test'), Error Msg = ORA-01400: cannot insert NULL into ("SYSTEM"."FIC_AMBASSADE"."ID")
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:637)
+	... 25 more
+15:51:39.458 [main][INFO ] Main                     - #########################################################################
+15:51:39.458 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+15:51:39.458 [main][INFO ] Main                     - #########################################################################
+15:52:03.377 [main][INFO ] Main                     - #########################################################################
+15:52:03.378 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+15:52:03.378 [main][INFO ] Main                     - #########################################################################
+15:52:07.301 [main][INFO ] Main                     - ################        LIST VIREMENT AMBASSADE       ###################
+15:52:07.302 [main][INFO ] Main                     - ################        CONTITENT : 6 VIREMENTS       ###################
+15:52:07.302 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+15:52:07.308 [main][ERROR] JDBCExceptionReporter    - ORA-01002: fetch out of sequence
+
+15:52:07.309 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+javax.persistence.PersistenceException: org.hibernate.exception.GenericJDBCException: could not execute query
+	at org.hibernate.ejb.AbstractEntityManagerImpl.throwPersistenceException(AbstractEntityManagerImpl.java:614)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:76)
+	at batch.main.Main.main(Main.java:56)
+Caused by: org.hibernate.exception.GenericJDBCException: could not execute query
+	at org.hibernate.exception.SQLStateConverter.handledNonSpecificException(SQLStateConverter.java:126)
+	at org.hibernate.exception.SQLStateConverter.convert(SQLStateConverter.java:114)
+	at org.hibernate.exception.JDBCExceptionHelper.convert(JDBCExceptionHelper.java:66)
+	at org.hibernate.loader.Loader.doList(Loader.java:2231)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2125)
+	at org.hibernate.loader.Loader.list(Loader.java:2120)
+	at org.hibernate.loader.custom.CustomLoader.list(CustomLoader.java:312)
+	at org.hibernate.impl.SessionImpl.listCustomQuery(SessionImpl.java:1722)
+	at org.hibernate.impl.AbstractSessionImpl.list(AbstractSessionImpl.java:165)
+	at org.hibernate.impl.SQLQueryImpl.list(SQLQueryImpl.java:175)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:67)
+	... 1 more
+Caused by: java.sql.SQLException: ORA-01002: fetch out of sequence
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:630)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:564)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1151)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:771)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:299)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:498)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:152)
+	at oracle.jdbc.driver.T4CPreparedStatement.fetch(T4CPreparedStatement.java:1219)
+	at oracle.jdbc.driver.OracleStatement.fetchMoreRows(OracleStatement.java:3785)
+	at oracle.jdbc.driver.InsensitiveScrollableResultSet.fetchMoreRows(InsensitiveScrollableResultSet.java:825)
+	at oracle.jdbc.driver.InsensitiveScrollableResultSet.fetchNextRows(InsensitiveScrollableResultSet.java:763)
+	at oracle.jdbc.driver.InsensitiveScrollableResultSet.absoluteInternal(InsensitiveScrollableResultSet.java:735)
+	at oracle.jdbc.driver.InsensitiveScrollableResultSet.next(InsensitiveScrollableResultSet.java:440)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:720)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:259)
+	at org.hibernate.loader.Loader.doList(Loader.java:2228)
+	... 8 more
+Caused by: Error : 1002, Position : 0, Sql = insert into fic_ambassade(id,nom) values(1,'Test'), OriginalSql = insert into fic_ambassade(id,nom) values(1,'Test'), Error Msg = ORA-01002: fetch out of sequence
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:637)
+	... 23 more
+15:52:07.311 [main][INFO ] Main                     - #########################################################################
+15:52:07.311 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+15:52:07.311 [main][INFO ] Main                     - #########################################################################
+15:54:55.762 [main][INFO ] Main                     - #########################################################################
+15:54:55.763 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+15:54:55.763 [main][INFO ] Main                     - #########################################################################
+15:55:00.048 [main][INFO ] Main                     - ################        LIST VIREMENT AMBASSADE       ###################
+15:55:00.048 [main][INFO ] Main                     - ################        CONTITENT : 6 VIREMENTS       ###################
+15:55:00.048 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+15:55:00.057 [main][ERROR] JDBCExceptionReporter    - ORA-00001: unique constraint (SYSTEM.SYS_C0010933) violated
+
+15:55:00.059 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+javax.persistence.PersistenceException: org.hibernate.exception.ConstraintViolationException: could not execute query
+	at org.hibernate.ejb.AbstractEntityManagerImpl.throwPersistenceException(AbstractEntityManagerImpl.java:614)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:76)
+	at batch.main.Main.main(Main.java:56)
+Caused by: org.hibernate.exception.ConstraintViolationException: could not execute query
+	at org.hibernate.exception.SQLStateConverter.convert(SQLStateConverter.java:94)
+	at org.hibernate.exception.JDBCExceptionHelper.convert(JDBCExceptionHelper.java:66)
+	at org.hibernate.loader.Loader.doList(Loader.java:2231)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2125)
+	at org.hibernate.loader.Loader.list(Loader.java:2120)
+	at org.hibernate.loader.custom.CustomLoader.list(CustomLoader.java:312)
+	at org.hibernate.impl.SessionImpl.listCustomQuery(SessionImpl.java:1722)
+	at org.hibernate.impl.AbstractSessionImpl.list(AbstractSessionImpl.java:165)
+	at org.hibernate.impl.SQLQueryImpl.list(SQLQueryImpl.java:175)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:67)
+	... 1 more
+Caused by: java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (SYSTEM.SYS_C0010933) violated
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:630)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:564)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1151)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:771)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:299)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:498)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:152)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:1052)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1531)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1311)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3746)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeQuery(OraclePreparedStatement.java:3855)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeQuery(OraclePreparedStatementWrapper.java:1098)
+	at org.hibernate.jdbc.AbstractBatcher.getResultSet(AbstractBatcher.java:208)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:1808)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:697)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:259)
+	at org.hibernate.loader.Loader.doList(Loader.java:2228)
+	... 8 more
+Caused by: Error : 1, Position : 0, Sql = insert into fic_ambassade(id,nom) values(1,'Test'), OriginalSql = insert into fic_ambassade(id,nom) values(1,'Test'), Error Msg = ORA-00001: unique constraint (SYSTEM.SYS_C0010933) violated
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:637)
+	... 25 more
+15:55:00.061 [main][INFO ] Main                     - #########################################################################
+15:55:00.061 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+15:55:00.061 [main][INFO ] Main                     - #########################################################################
+15:58:16.535 [main][INFO ] Main                     - #########################################################################
+15:58:16.536 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+15:58:16.536 [main][INFO ] Main                     - #########################################################################
+15:58:21.260 [main][INFO ] Main                     - ################        LIST VIREMENT AMBASSADE       ###################
+15:58:21.260 [main][INFO ] Main                     - ################        CONTITENT : 6 VIREMENTS       ###################
+15:58:21.260 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+15:58:21.272 [main][ERROR] JDBCExceptionReporter    - ORA-04091: table SYSTEM.FIC_AMBASSADE is mutating, trigger/function may not see it
+ORA-06512: at "SYSTEM.FICTRIG", line 4
+ORA-04088: error during execution of trigger 'SYSTEM.FICTRIG'
+
+15:58:21.273 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute query
+	at org.hibernate.ejb.AbstractEntityManagerImpl.throwPersistenceException(AbstractEntityManagerImpl.java:614)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:76)
+	at batch.main.Main.main(Main.java:56)
+Caused by: org.hibernate.exception.SQLGrammarException: could not execute query
+	at org.hibernate.exception.SQLStateConverter.convert(SQLStateConverter.java:90)
+	at org.hibernate.exception.JDBCExceptionHelper.convert(JDBCExceptionHelper.java:66)
+	at org.hibernate.loader.Loader.doList(Loader.java:2231)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2125)
+	at org.hibernate.loader.Loader.list(Loader.java:2120)
+	at org.hibernate.loader.custom.CustomLoader.list(CustomLoader.java:312)
+	at org.hibernate.impl.SessionImpl.listCustomQuery(SessionImpl.java:1722)
+	at org.hibernate.impl.AbstractSessionImpl.list(AbstractSessionImpl.java:165)
+	at org.hibernate.impl.SQLQueryImpl.list(SQLQueryImpl.java:175)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:67)
+	... 1 more
+Caused by: java.sql.SQLSyntaxErrorException: ORA-04091: table SYSTEM.FIC_AMBASSADE is mutating, trigger/function may not see it
+ORA-06512: at "SYSTEM.FICTRIG", line 4
+ORA-04088: error during execution of trigger 'SYSTEM.FICTRIG'
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:630)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:564)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1151)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:771)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:299)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:498)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:152)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:1052)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1531)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1311)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3746)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeQuery(OraclePreparedStatement.java:3855)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeQuery(OraclePreparedStatementWrapper.java:1098)
+	at org.hibernate.jdbc.AbstractBatcher.getResultSet(AbstractBatcher.java:208)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:1808)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:697)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:259)
+	at org.hibernate.loader.Loader.doList(Loader.java:2228)
+	... 8 more
+Caused by: Error : 4091, Position : 7, Sql = update fic_ambassade set nom ='TESTING' , OriginalSql = update fic_ambassade set nom ='TESTING' , Error Msg = ORA-04091: table SYSTEM.FIC_AMBASSADE is mutating, trigger/function may not see it
+ORA-06512: at "SYSTEM.FICTRIG", line 4
+ORA-04088: error during execution of trigger 'SYSTEM.FICTRIG'
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:637)
+	... 25 more
+15:58:21.274 [main][INFO ] Main                     - #########################################################################
+15:58:21.275 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+15:58:21.275 [main][INFO ] Main                     - #########################################################################
+16:03:47.840 [main][INFO ] Main                     - #########################################################################
+16:03:47.841 [main][INFO ] Main                     - ################                DEBUT BATCH           ###################
+16:03:47.841 [main][INFO ] Main                     - #########################################################################
+16:03:51.960 [main][INFO ] Main                     - ################        LIST VIREMENT AMBASSADE       ###################
+16:03:51.961 [main][INFO ] Main                     - ################        CONTITENT : 6 VIREMENTS       ###################
+16:03:51.961 [main][INFO ] Main                     - ##################### DEBUT GENERATION FICHER VIREMENT ##################
+16:03:51.970 [main][ERROR] JDBCExceptionReporter    - ORA-04091: table SYSTEM.FIC_AMBASSADE is mutating, trigger/function may not see it
+ORA-06512: at "SYSTEM.FICTRIG", line 4
+ORA-04088: error during execution of trigger 'SYSTEM.FICTRIG'
+
+16:03:51.971 [main][ERROR] Main                     - Erreur lors de la recuperation des virements
+javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute query
+	at org.hibernate.ejb.AbstractEntityManagerImpl.throwPersistenceException(AbstractEntityManagerImpl.java:614)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:76)
+	at batch.main.Main.main(Main.java:56)
+Caused by: org.hibernate.exception.SQLGrammarException: could not execute query
+	at org.hibernate.exception.SQLStateConverter.convert(SQLStateConverter.java:90)
+	at org.hibernate.exception.JDBCExceptionHelper.convert(JDBCExceptionHelper.java:66)
+	at org.hibernate.loader.Loader.doList(Loader.java:2231)
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2125)
+	at org.hibernate.loader.Loader.list(Loader.java:2120)
+	at org.hibernate.loader.custom.CustomLoader.list(CustomLoader.java:312)
+	at org.hibernate.impl.SessionImpl.listCustomQuery(SessionImpl.java:1722)
+	at org.hibernate.impl.AbstractSessionImpl.list(AbstractSessionImpl.java:165)
+	at org.hibernate.impl.SQLQueryImpl.list(SQLQueryImpl.java:175)
+	at org.hibernate.ejb.QueryImpl.getResultList(QueryImpl.java:67)
+	... 1 more
+Caused by: java.sql.SQLSyntaxErrorException: ORA-04091: table SYSTEM.FIC_AMBASSADE is mutating, trigger/function may not see it
+ORA-06512: at "SYSTEM.FICTRIG", line 4
+ORA-04088: error during execution of trigger 'SYSTEM.FICTRIG'
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:630)
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:564)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1151)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:771)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:299)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:498)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:152)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:1052)
+	at oracle.jdbc.driver.OracleStatement.executeSQLStatement(OracleStatement.java:1531)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1311)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3746)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeQuery(OraclePreparedStatement.java:3855)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeQuery(OraclePreparedStatementWrapper.java:1098)
+	at org.hibernate.jdbc.AbstractBatcher.getResultSet(AbstractBatcher.java:208)
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:1808)
+	at org.hibernate.loader.Loader.doQuery(Loader.java:697)
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:259)
+	at org.hibernate.loader.Loader.doList(Loader.java:2228)
+	... 8 more
+Caused by: Error : 4091, Position : 7, Sql = update fic_ambassade set nom ='TESTING' , OriginalSql = update fic_ambassade set nom ='TESTING' , Error Msg = ORA-04091: table SYSTEM.FIC_AMBASSADE is mutating, trigger/function may not see it
+ORA-06512: at "SYSTEM.FICTRIG", line 4
+ORA-04088: error during execution of trigger 'SYSTEM.FICTRIG'
+
+	at oracle.jdbc.driver.T4CTTIoer11.processError(T4CTTIoer11.java:637)
+	... 25 more
+16:03:51.973 [main][INFO ] Main                     - #########################################################################
+16:03:51.973 [main][INFO ] Main                     - ################                FIN BATCH             ###################
+16:03:51.973 [main][INFO ] Main                     - #########################################################################

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd"
+             version="2.2">
+    <persistence-unit name="DS_VIR_AMBASSADE_AS"
+                      transaction-type="RESOURCE_LOCAL">
+        <class>batch.entities.Virement</class>
+        <properties>
+            <property name="javax.persistence.jdbc.show_sql" value="false" />
+            <property name="javax.persistence.jdbc.format_sql" value="true" />
+            <property name="hibernate.dialect" value="org.hibernate.dialect.Oracle10gDialect" />
+            <property name="hibernate.connection.driver_class" value="oracle.jdbc.driver.OracleDriver" />
+            <property name="hibernate.show_sql" value="false" />
+            <property name="hibernate.format_sql" value="true" />
+            <property name="hibernate.connection.url" value="jdbc:oracle:thin:@//localhost:1521/ORCLCDB" />
+            <property name="hibernate.connection.username" value="SYSTEM" />
+            <property name="hibernate.connection.password" value="123" />
+        </properties>
+    </persistence-unit>
+    <persistence-unit name="DS_FIC_AMBASSADE"
+                      transaction-type="RESOURCE_LOCAL">
+        <class>batch.entities.FicAmbassade</class>
+        <properties>
+            <property name="javax.persistence.jdbc.show_sql" value="false" />
+            <property name="javax.persistence.jdbc.format_sql" value="true" />
+            <property name="hibernate.dialect" value="org.hibernate.dialect.Oracle10gDialect" />
+            <property name="hibernate.connection.driver_class" value="oracle.jdbc.driver.OracleDriver" />
+            <property name="hibernate.show_sql" value="false" />
+            <property name="hibernate.format_sql" value="true" />
+            <property name="hibernate.connection.url" value="jdbc:oracle:thin:@//localhost:1521/ORCLCDB" />
+            <property name="hibernate.connection.username" value="SYSTEM" />
+            <property name="hibernate.connection.password" value="123" />
+        </properties>
+    </persistence-unit>
+</persistence>

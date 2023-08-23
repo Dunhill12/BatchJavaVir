@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
+       <appender name="CONSOLE_APP" class="org.apache.log4j.ConsoleAppender">
+             <layout class="org.apache.log4j.PatternLayout">
+                    <!--param name="ConversionPattern" value="[%t] %p %c - %m%n" /-->
+                    <param name="ConversionPattern" value="[%-5p] %-25c{1}- %m%n" />
+             </layout>
+             <filter class="org.apache.log4j.varia.LevelRangeFilter">
+                    <param name="levelMin" value="INFO" />
+                    <param name="levelMax" value="ERROR" />
+             </filter>	
+       </appender>
+       <appender name="FILE_APP" class="org.apache.log4j.DailyRollingFileAppender">
+             <param name="File" value="logs/CommissionBam.log" />  
+             <param name="Append" value="true" />
+             <param name="DatePattern" value="'.'dd-MM-yyyy'.log'" />
+             <layout class="org.apache.log4j.PatternLayout">
+                    <param name="ConversionPattern" value="%d{HH:mm:ss.SSS} [%t][%-5p] %-25c{1}- %m%n" />
+             </layout>
+             <filter class="org.apache.log4j.varia.LevelRangeFilter">
+             
+                    <param name="levelMin" value="INFO" />
+                    <param name="levelMax" value="ERROR" />
+             </filter>
+       </appender>
+
+       <logger name="org.hibernate.type">
+             <level value="ERROR" />
+
+       </logger> 
+ 
+       <logger name="org.hibernate">
+             <level value="ERROR" />
+       </logger>
+
+       <root>
+             <priority value="INFO" />
+             <appender-ref ref="FILE_APP" />
+             <appender-ref ref="CONSOLE_APP" />
+       </root>
+</log4j:configuration>
